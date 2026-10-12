@@ -66,6 +66,3 @@ Esta aplicación tiene como finalidad facilitar la navegación por el sitio web 
 
 ![Reproductor a pantalla completa en Android TV](pantalla-completa-android-tv.png)
 
-### Siguiente capítulo
-
-![Tarjeta de siguiente capítulo durante la reproducción](siguiente-capitulo.jpg)
