@@ -2,6 +2,6 @@
   "latestVersion": "2.3.77",
   "versionCode": 77,
   "downloadUrl": "https://github.com/sonyc22/animeav1-updates/releases/latest/download/AnimeAV1-V2.3.77.apk",
-  "releaseNotes": "Prueba de apertura de enlaces de descarga externos, limpieza de avisos falsos de descarga y conservación de la navegación y el cursor continuo.",
+  "releaseNotes": "Mejoras en el actualizador y las descargas externas, corrección de avisos de descarga incorrectos y conservación de la navegación fluida y el enfoque continuo del cursor.",
   "forceUpdate": false
 }
