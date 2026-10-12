@@ -1,17 +1,4 @@
 # AnimeAV1 para Android
-## Capturas de pantalla
-
-### Pantalla principal
-
-![Pantalla principal de AnimeAV1](inicio-movil.jpg)
-
-### Reproductor y selección de episodios
-
-![Reproductor del episodio 1](reproductor-episodio-1.jpg)
-
-### Siguiente capítulo
-
-![Tarjeta de siguiente capítulo durante la reproducción](siguiente-capitulo.jpg)
 
 Aplicación independiente para facilitar el acceso y la navegación por [AnimeAV1](https://animeav1.com/), especialmente en Android TV, TV Stick, teléfonos y otros dispositivos Android compatibles.
 
@@ -48,3 +35,17 @@ La información de la versión estable disponible para el actualizador integrado
 ## Aviso
 
 Esta aplicación tiene como finalidad facilitar la navegación por el sitio web desde dispositivos Android. El acceso a contenidos y servicios de terceros está sujeto a su disponibilidad y a las condiciones aplicables.
+
+## Capturas de pantalla
+
+### Pantalla principal
+
+![Pantalla principal de AnimeAV1](inicio-movil.jpg)
+
+### Reproductor y selección de episodios
+
+![Reproductor del episodio 1](reproductor-episodio-1.jpg)
+
+### Siguiente capítulo
+
+![Tarjeta de siguiente capítulo durante la reproducción](siguiente-capitulo.jpg)
