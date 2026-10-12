@@ -1,7 +1,7 @@
 {
-  "latestVersion": "2.3.74",
-  "versionCode": 74,
-  "downloadUrl": "https://github.com/sonyc22/animeav1-updates/releases/latest/download/AnimeAV1-V2.3.74.apk",
-  "releaseNotes": "Correcciones en el actualizador: mejoras en el acceso al APK descargado y en la apertura del instalador de Android. Se conserva el cursor continuo.",
+  "latestVersion": "2.3.76",
+  "versionCode": 76,
+  "downloadUrl": "https://github.com/sonyc22/animeav1-updates/releases/latest/download/AnimeAV1-V2.3.76.apk",
+  "releaseNotes": "Mejoras en la apertura de aplicaciones externas durante la descarga, diagnóstico del actualizador y conservación del cursor continuo.",
   "forceUpdate": false
 }
