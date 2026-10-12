@@ -38,13 +38,33 @@ Esta aplicación tiene como finalidad facilitar la navegación por el sitio web 
 
 ## Capturas de pantalla
 
-### Pantalla principal
+### Teléfonos Android
 
-![Pantalla principal de AnimeAV1](inicio-movil.jpg)
+**Pantalla principal**
 
-### Reproductor y selección de episodios
+![Pantalla principal en móvil](inicio-movil.jpg)
 
-![Reproductor del episodio 1](reproductor-episodio-1.jpg)
+**Reproductor y selección de episodios**
+
+![Reproductor en móvil](reproductor-episodio-1.jpg)
+
+**Siguiente capítulo**
+
+![Siguiente capítulo en móvil](siguiente-capitulo.jpg)
+
+### Android TV, TV Stick y tablets
+
+**Catálogo**
+
+![Catálogo en Android TV](catalogo-android-tv.png)
+
+**Siguiente capítulo dentro del reproductor**
+
+![Tarjeta de siguiente capítulo en Android TV](siguiente-capitulo-android-tv.png)
+
+**Reproducción a pantalla completa**
+
+![Reproductor a pantalla completa en Android TV](pantalla-completa-android-tv.png)
 
 ### Siguiente capítulo
 
