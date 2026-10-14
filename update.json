@@ -5,3 +5,4 @@
   "releaseNotes": "Versión estable 2.4.0: sección «Seguir viendo» para recuperar episodios; guardado del minuto y segundo de reproducción y del servidor asociado cuando el servidor lo permite; mejoras de navegación e interfaz en teléfono Android y Android TV Stick; diagnóstico simplificado. Se conservan las funciones de reproducción y bloqueo de ventanas emergentes. Algunos servidores pueden requerir iniciar la reproducción manualmente.",
   "forceUpdate": false
 }
+
