@@ -3,5 +3,6 @@
   "versionCode": 105,
   "downloadUrl": "https://github.com/sonyc22/animeav1-updates/releases/latest/download/AnimeAV1-V2.4.1.apk",
   "releaseNotes": "Versión estable 2.4.1: sección «Seguir viendo» limitada a Inicio y disponible solo con sesión iniciada; mejoras visuales en Mis Listas; corrección de la selección y persistencia de puntuaciones; estrellas alineadas y eliminación de indicadores de diagnóstico; tarjetas adaptadas a los temas claro y oscuro. Se conservan las funciones de navegación y reproducción.",
-  "forceUpdate": false
+  "forceUpdate": false,
+  "manifestUpdatedAt": "2026-10-15"
 }
