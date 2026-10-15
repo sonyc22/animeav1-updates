@@ -1,8 +1,7 @@
 {
-  "latestVersion": "2.4.0",
-  "versionCode": 100,
-  "downloadUrl": "https://github.com/sonyc22/animeav1-updates/releases/latest/download/AnimeAV1-V2.4.0.apk",
-  "releaseNotes": "Versión estable 2.4.0: sección «Seguir viendo» para recuperar episodios; guardado del minuto y segundo de reproducción y del servidor asociado cuando el servidor lo permite; mejoras de navegación e interfaz en teléfono Android y Android TV Stick; diagnóstico simplificado. Se conservan las funciones de reproducción y bloqueo de ventanas emergentes. Algunos servidores pueden requerir iniciar la reproducción manualmente.",
+  "latestVersion": "2.4.1",
+  "versionCode": 105,
+  "downloadUrl": "https://github.com/sonyc22/animeav1-updates/releases/latest/download/AnimeAV1-V2.4.1.apk",
+  "releaseNotes": "Versión estable 2.4.1: sección «Seguir viendo» limitada a Inicio y disponible solo con sesión iniciada; mejoras visuales en Mis Listas; corrección de la selección y persistencia de puntuaciones; estrellas alineadas y eliminación de indicadores de diagnóstico; tarjetas adaptadas a los temas claro y oscuro. Se conservan las funciones de navegación y reproducción.",
   "forceUpdate": false
 }
-
