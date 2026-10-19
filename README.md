@@ -1,6 +1,6 @@
 # AnimeAV1 para Android
 
-Aplicación independiente para facilitar el acceso y la navegación por [AnimeAV1](https://animeav1.com/), especialmente en Android TV, TV Stick, teléfonos y otros dispositivos Android compatibles.
+Esta aplicación es independiente para facilitar el acceso y la navegación por [AnimeAV1](https://animeav1.com/), especialmente en Android TV, TV Stick, teléfonos y otros dispositivos Android compatibles.
 
 ## ¿Qué es AnimeAV1 para Android?
 
