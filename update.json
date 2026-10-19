@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.4.1",
-  "versionCode": 105,
-  "downloadUrl": "https://github.com/sonyc22/animeav1-updates/releases/latest/download/AnimeAV1-V2.4.1.apk",
-  "releaseNotes": "Versión estable 2.4.1: sección «Seguir viendo» limitada a Inicio y disponible solo con sesión iniciada; mejoras visuales en Mis Listas; corrección de la selección y persistencia de puntuaciones; estrellas alineadas y eliminación de indicadores de diagnóstico; tarjetas adaptadas a los temas claro y oscuro. Se conservan las funciones de navegación y reproducción.",
+  "latestVersion": "2.4.2",
+  "versionCode": 141,
+  "downloadUrl": "https://github.com/sonyc22/animeav1-updates/releases/latest/download/AnimeAV1-V2.4.2.apk",
+  "releaseNotes": "Versión estable 2.4.2: nueva sección «Nuevos episodios de mi lista» con carrusel compacto y navegación circular, independiente de «Seguir viendo»; mejoras de navegación con mando en Android TV/TV Stick, incluido el foco del carrusel y formularios; correcciones de apariencia según el tema del sistema y mayor contraste en diálogos; espaciado de portada más compacto y diagnóstico simplificado. Se conservan la reproducción, el progreso, el bloqueo de anuncios configurable y las funciones existentes.",
   "forceUpdate": false,
-  "manifestUpdatedAt": "2026-10-15"
+  "manifestUpdatedAt": "2026-10-19"
 }
